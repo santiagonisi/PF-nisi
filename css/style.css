@@ -1,149 +1,140 @@
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
-    font-size: 100%;
-    vertical-align: baseline;
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
 }
 
-body{
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    background-color: white;
+body {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  background-color: white;
 }
 
 .header {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .head {
-    display: flex;
-    justify-content: center;
-    align-content: space-between;
-    height: 80px;
-    background-color: black;
-    position: fixed;
-    width: 100%;
-    z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  height: 80px;
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
 }
 
-.head1{
-    display: flex;
-    justify-content: center;
-    align-content: space-between;
-    height: 80px;
-    background-color: black;
-    position: absolute;
-    width: 100%;
-    z-index: 100;
-
+.head1 {
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+  height: 80px;
+  background-color: black;
+  position: absolute;
+  width: 100%;
+  z-index: 100;
 }
 
-.navbar{
-    display: flex;
-    margin-right: 10px;
+.navbar {
+  display: flex;
+  margin-right: 10px;
 }
 
-.logo{
-    font-size: 40px;
-    margin-left: 30px;
+.logo {
+  font-size: 40px;
+  margin-left: 30px;
 }
 
-.navbar a{
-    display: block;
-    padding: 20px 20px;
-    color: white;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 20px;
+.navbar a {
+  display: block;
+  padding: 20px 20px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 20px;
 }
 
-.navbar a:hover{
-    background: grey;
+.navbar a:hover {
+  background: grey;
 }
 
-.header{
-    height: 100%;
-    background: url(noche3.png) no-repeat center;
-    background-color: cover;
+.header {
+  height: 100%;
+  background: url(noche3.png) no-repeat center;
+  background-color: cover;
 }
 
-.title{
-    margin-bottom: 40px;
-    font-size: 60px;
-    font-weight: 600;
-    text-transform: uppercase;
-    background: grey;
-    
+.title {
+  margin-bottom: 40px;
+  font-size: 60px;
+  font-weight: 600;
+  text-transform: uppercase;
+  background: grey;
 }
 
-p{
-    margin-bottom: 40px;
-    font-size: 20px;
+p {
+  margin-bottom: 40px;
+  font-size: 20px;
 }
 
-.btn{
-        display: inline-flex;
-        margin-top: 15px;
-        padding: 10px 30px;
-        border: 2px solid #9c27b0;
-        color: white;
-        text-decoration: none;
-        background: #9c27b0;
-        border-radius: 5px;
+.btn {
+  display: inline-flex;
+  margin-top: 15px;
+  padding: 10px 30px;
+  border: 2px solid #9c27b0;
+  color: white;
+  text-decoration: none;
+  background: #9c27b0;
+  border-radius: 5px;
 }
 
-.btnfoot{
-    display: inline-flex;
-    margin-top: 10px;
-    padding: 10px 10px;
-    border: 2px solid #9c27b0;
-    color: white;
-    text-decoration: none;
-    background: #9c27b0;
-    border-radius: 5px;
+.btnfoot {
+  display: inline-flex;
+  margin-top: 10px;
+  padding: 10px 10px;
+  border: 2px solid #9c27b0;
+  color: white;
+  text-decoration: none;
+  background: #9c27b0;
+  border-radius: 5px;
 }
 
-.btn:hover{
-    background: none;
+.btn:hover {
+  background: none;
 }
 
-.btnfoot:hover{
-    background: none;
+.btnfoot:hover {
+  background: none;
 }
 
-.box-container{
-    display: flex;
-    justify-content: center;
+.box-container {
+  display: flex;
+  justify-content: center;
 }
 
-
-.box{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    text-align: center;
-    padding: 20px;
+.box {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 20px;
 }
 
-.box-multimedia{
-    background: grey;
+.box-multimedia {
+  background: grey;
 }
 
-.box-tematicas{
-    display: flex;
+.box-tematicas {
+  display: flex;
 }
 
-footer{
-    background-color: grey;
+footer {
+  background-color: grey;
 }
 
-
-
-
-
-
-
-
+/*# sourceMappingURL=style.css.map */
