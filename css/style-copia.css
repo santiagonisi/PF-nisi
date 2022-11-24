@@ -1,54 +1,42 @@
-h2 {
+h2{
   text-align: center;
   color: white;
   padding: 20px;
-}
-
-h3 {
+  }
+h3{
   text-align: center;
   color: white;
 }
-
-p {
+p{
   color: black;
   text-align: center;
 }
-
-.info {
+.info{
   text-align: center;
 }
-
-.card-body {
+.card-body{
   align-items: center;
   text-align: center;
 }
-
-.card-img-top {
+.card-img-top{
   size: 200 px;
   display: flex;
 }
-
-footer {
+footer{
   background-color: black;
   padding: auto;
 }
-
-.card-text-center {
+.card-text-center{
   color: black;
   display: flex;
   align-items: center;
 }
-
-body {
-  background-color: dimgrey;
+body{
+  background-color:dimgrey
 }
-
-.nav-item {
+.nav-item{
   padding: 20px;
 }
-
-.col {
+.col{
   padding: 5px;
 }
-
-/*# sourceMappingURL=style.css.map */
