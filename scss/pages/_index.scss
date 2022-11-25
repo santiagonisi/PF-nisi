@@ -1,7 +1,7 @@
 p {
-	color: black;
-	text-align: center;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+	color: $color-terciario;
+	text-align: $items;
+	font-family: $fuente;
 }
 h5{
 	text-align: center;
@@ -13,7 +13,7 @@ h5{
 	height: 100%;
 }
 footer {
-	background-color: black;
+	background-color: $color-terciario;
 	padding: auto;
 	width: 100%;
 }
@@ -22,10 +22,10 @@ footer {
 	text-align: center;
 }
 .card-text-center {
-	background-color: dimgrey !important;
+	background-color: $color-primario !important;
 	display: flex;
 	align-items: center;
 }
 body {
-	background-color: dimgrey;
+	background-color: $color-primario;
 }

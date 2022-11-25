@@ -1,11 +1,11 @@
 h2 {
-	text-align: center;
-	color: white;
+	text-align: $items;
+	color: $color-secundario;
 	padding: 20px;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+	font-family: $fuente;
 }
 p {
-	color: black;
+	color: $color-terciario;
 	text-align: center;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
