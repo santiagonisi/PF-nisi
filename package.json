@@ -1,0 +1,22 @@
+{
+  "name": "preentreganisi",
+  "version": "1.0.0",
+  "description": "coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagonisi/preentrega2-nisi.git"
+  },
+  "author": "santiago nisi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiagonisi/preentrega2-nisi/issues"
+  },
+  "homepage": "https://github.com/santiagonisi/preentrega2-nisi#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}

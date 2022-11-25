@@ -1,17 +1,155 @@
+p {
+  color: black;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h5 {
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.content-header {
+  align-items: center;
+  height: 100%;
+}
+
+footer {
+  background-color: black;
+  padding: auto;
+  width: 100%;
+}
+
+.card-body {
+  align-items: center;
+  text-align: center;
+}
+
+.card-text-center {
+  background-color: dimgrey !important;
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: dimgrey;
+}
+
 h2 {
   text-align: center;
   color: white;
   padding: 20px;
-}
-
-h3 {
-  text-align: center;
-  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
 p {
   color: black;
   text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h5 {
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.carouselExampleControls {
+  display: flex;
+  align-items: center;
+}
+
+footer {
+  background-color: black;
+  padding: auto;
+  width: 100%;
+}
+
+.card-body {
+  align-items: center;
+  text-align: center;
+}
+
+.card-text-center {
+  background-color: dimgrey !important;
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: dimgrey;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h5 {
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+footer {
+  background-color: black;
+  padding: auto;
+  width: 100%;
+}
+
+.card-body {
+  align-items: center;
+  text-align: center;
+}
+
+.card-text-center {
+  background-color: dimgrey !important;
+  display: flex;
+  align-items: center;
+}
+
+body {
+  background-color: dimgrey;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h5 {
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+footer {
+  background-color: black;
+  padding: auto;
+  width: 100%;
 }
 
 .info {
@@ -23,18 +161,53 @@ p {
   text-align: center;
 }
 
+.card-text-center {
+  background-color: dimgrey !important;
+  display: flex;
+  align-items: center;
+}
+
 .card-img-top {
   size: 200 px;
   display: flex;
 }
 
+body {
+  background-color: dimgrey;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h5 {
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
 footer {
   background-color: black;
   padding: auto;
+  width: 100%;
+}
+
+.card-body {
+  align-items: center;
+  text-align: center;
 }
 
 .card-text-center {
-  color: black;
+  background-color: dimgrey !important;
   display: flex;
   align-items: center;
 }
