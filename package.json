@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/santiagonisi/preentrega2-nisi#readme",
   "dependencies": {
-    "bootstrap": "^5.2.2"
+    "bootstrap": "^5.2.2",
+    "sass": "^1.56.1"
   }
 }
